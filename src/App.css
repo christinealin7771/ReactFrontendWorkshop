@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.aboutMe {
+  font-size: 20;
+  color: cadetblue;
+}
+
+.details{
+  font-size: 10;
+  color: black;
+}
+
+img{
+  width: 300px;  
+}
